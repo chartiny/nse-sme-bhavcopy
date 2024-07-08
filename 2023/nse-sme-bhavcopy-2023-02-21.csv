@@ -1,0 +1,95 @@
+MARKET,SERIES,SYMBOL,SECURITY,PREV_CL_PR,OPEN_PRICE,HIGH_PRICE,LOW_PRICE,CLOSE_PRICE,NET_TRDVAL,NET_TRDQTY,CORP_IND,HI_52_WK,LO_52_WK
+N,SM,AILIMITED,ABHISHEK INTEGRATIONS LTD,        36.05,        37.85,        37.85,        37.80,        37.80,                   226950.00,6000, ,        38.25,        19.70
+N,SM,ALLETEC,ALL E TECHNOLOGIES LTD,       109.75,       110.00,       110.00,       106.00,       108.00,                  2748720.00,25600, ,       133.25,        96.00
+N,SM,ANLON,ANLON TECHNOLOGY SOL LTD,       185.00,       180.00,       180.00,       173.00,       174.95,                  2764620.00,15600, ,       218.90,       165.25
+N,SM,ANNAPURNA,ANNAPURNA SWADISHT LTD,       137.25,       138.85,       139.90,       136.00,       136.85,                  4703350.00,34000, ,       172.95,       124.00
+N,SM,ARHAM,ARHAM TECHNOLOGIES LTD,        60.25,        61.95,        61.95,        61.95,        61.95,                   185850.00,3000, ,        79.80,        58.20
+N,SM,ARIHANTACA,ARIHANT ACADEMY LIMITED,       119.00,       121.80,       122.00,       118.00,       118.00,                  1153360.00,9600, ,       152.50,       103.00
+N,SM,ARISTO,ARISTO BIO T AND LIFESC L,        68.75,        67.00,        67.95,        64.10,        65.50,                  2002480.00,30400, ,        83.00,        64.10
+N,SM,ATALREAL,ATAL REALTECH LIMITED,        71.00,        70.00,        71.00,        70.00,        71.00,                  1694160.00,24000, ,       181.00,        50.00
+N,SM,AVG,AVG LOGISTICS LIMITED,       164.80,       168.00,       172.50,       168.00,       172.50,                  1427400.00,8400, ,       180.90,        53.10
+N,SM,BAHETI,BAHETI RECYCLING IND LTD,       107.60,       112.80,       112.80,       107.60,       108.00,                  4266150.00,39000, ,       140.00,        97.00
+N,SM,BETA,BETA DRUGS LIMITED,       642.00,       640.05,       645.00,       636.55,       643.60,                  2434240.00,3800, ,      1024.40,       486.35
+N,SM,BEWLTD,BEW ENGINEERING LIMITED,       613.00,       610.00,       610.00,       600.00,       600.00,                  1360512.50,2250, ,      1171.00,       592.00
+N,SM,BRIGHT,BRIGHT SOLAR LIMITED,         6.35,         6.65,         6.65,         6.65,         6.65,                   319200.00,48000, ,        10.00,         3.90
+N,SM,CLOUD,VARANIUM CLOUD LIMITED,      1224.60,      1255.00,      1285.80,      1250.00,      1285.80,                 17199950.00,13500, ,      1602.40,       146.50
+N,SM,CMNL,CHAMAN METALLICS LIMITED,        55.50,        55.40,        56.95,        54.00,        54.00,                  1825050.00,33000, ,        64.00,        50.25
+N,SM,CONTI,CONTINENTAL SEED CHEM LTD,        20.00,        21.00,        21.00,        19.30,        19.30,                   264140.25,13332, ,        30.15,         6.80
+N,SM,COOLCAPS,COOL CAPS INDUSTRIES LTD,       500.00,       500.00,       500.00,       490.00,       490.00,                  1110000.00,2250, ,       548.00,        41.50
+N,SM,DESTINY,DESTINY LOGISTICS & I LTD,        15.25,        16.00,        16.00,        14.50,        16.00,                  1046700.00,66000, ,        24.60,         9.65
+N,SM,DKEGL,D K ENTERPRISES GLOBAL L,        58.10,        52.60,        52.60,        52.60,        52.60,                   157800.00,3000, ,        73.50,        33.25
+N,SM,DOLLEX,DOLLEX AGROTECH LIMITED,        31.50,        29.00,        29.20,        28.65,        28.85,                   693000.00,24000, ,        41.50,        26.50
+N,SM,DRL,DHANUKA REALTY LIMITED,        10.25,        10.25,        10.25,        10.25,        10.25,                    61500.00,6000, ,        16.95,         5.85
+N,SM,DUCOL,DUCOL ORGS AND COLOURS LT,       106.25,       104.00,       110.00,       104.00,       106.40,                  3626080.00,33600, ,       121.80,       102.70
+N,SM,DUGLOBAL,DUDIGITAL GLOBAL LIMITED,       143.55,       143.95,       143.95,       143.70,       143.90,                   988875.00,6875, ,       489.00,        91.00
+N,SM,EMKAYTOOLS,EMKAY TAP & CUT. TOOL LTD,       280.00,       294.00,       294.00,       294.00,       294.00,                   176400.00,600, ,       345.15,       145.05
+N,SM,EUROBOND,EURO PANEL PRODUCTS LTD,       110.50,       110.65,       110.65,       108.00,       108.90,                  3938300.00,36000, ,       147.65,        88.00
+N,SM,FOCE,FOCE INDIA LIMITED,       649.00,       671.00,       673.50,       671.00,       673.50,                  4843800.00,7200, ,       721.00,       201.50
+N,SM,FROG,FROG CELLSAT LIMITED,       175.75,       180.00,       180.00,       164.00,       166.15,                  7681960.00,45200, ,       297.00,       164.00
+N,SM,GICL,GLOBE INTL CARRIERS LTD,        42.00,        42.00,        42.00,        42.00,        42.00,                   378000.00,9000, ,       104.00,        21.35
+N,SM,GIRIRAJ,GIRIRAJ CIVIL DEVP LTD,       203.15,       194.00,       194.00,       194.00,       194.00,                   232800.00,1200, ,       310.00,        95.00
+N,SM,GRCL,GAYATRI RUBB AND CHEM LTD,        45.25,        41.90,        42.00,        37.50,        38.00,                  3446600.00,88000, ,        42.00,        37.50
+N,SM,GSTL,GLOBESECURE TECHNO LTD,       133.85,       139.90,       140.50,       134.50,       140.30,                 10010200.00,72000, ,       176.40,        55.00
+N,SM,HOMESFY,HOMESFY REALTY LIMITED,       496.15,       500.00,       506.90,       499.00,       504.95,                  1804740.00,3600, ,       636.50,       350.55
+N,SM,INNOVANA,INNOVANA THINKLABS LTD.,       609.90,       640.35,       640.35,       639.80,       640.35,                  2176850.00,3400, ,       699.00,       250.00
+N,SM,IPSL,INTEGRATED PERSO SER LTD,        75.70,        74.00,        74.00,        74.00,        74.00,                   296000.00,4000, ,        97.95,        72.25
+N,SM,ISHAN,ISHAN INTERNATIONAL LTD,        28.55,        28.50,        28.50,        28.00,        28.00,                   135680.00,4800, ,        69.50,        25.65
+N,SM,JAINAM,JAINAM FER ALLOYS (I) LTD,       168.00,       163.00,       163.00,       159.65,       160.90,                   482700.00,3000, ,       218.60,       109.25
+N,SM,JALAN,JALAN TRANSOLU. INDIA LTD,         8.45,         8.50,         8.50,         8.15,         8.15,                    74550.00,9000, ,        17.05,         7.20
+N,SM,JSLL,JEENA SIKHO LIFECARE LTD,       296.00,       296.00,       296.00,       289.00,       289.00,                  1457300.00,5000, ,       330.90,       127.00
+N,SM,KANDARP,KANDARP DG SMART BPO LTD,        22.25,        22.00,        22.00,        20.00,        20.00,                   255400.00,12000, ,        26.55,        13.80
+N,SM,KCK,KCK INDUSTRIES LTD,        20.90,        19.15,        19.15,        19.15,        19.15,                    76600.00,4000, ,        31.70,        15.40
+N,SM,KNAGRI,KN AGRI RESOURCES LIMITED,       126.10,       124.50,       124.50,       124.50,       124.50,                   199200.00,1600, ,       261.00,       118.10
+N,SM,KORE,JAY JALARAM TECHNO LTD,       222.80,       215.00,       219.50,       211.70,       218.40,                  3020000.00,14000, ,       273.00,        50.00
+N,SM,KOTYARK,KOTYARK INDUSTRIES LTD,       355.00,       357.35,       366.00,       355.50,       358.10,                  3575810.00,10000, ,       857.90,       220.50
+N,SM,KRISHNADEF,KRISHNA DEF AND ALD IND L,       144.00,       146.20,       146.50,       140.00,       144.00,                  1574350.00,11000, ,       187.00,        53.05
+N,SM,LATTEYS,LATTEYS INDUSTRIES LTD,        36.70,        38.50,        38.50,        35.25,        35.25,                   921875.00,25000, ,       166.00,        28.80
+N,SM,LEMERITE,LE MERITE EXPORTS LIMITED,        57.40,        57.50,        57.50,        57.50,        57.50,                    92000.00,1600, ,        83.95,        52.50
+N,SM,LEXUS,LEXUS GRANITO (INDIA) LTD,        69.30,        70.00,        70.00,        70.00,        70.00,                    70000.00,1000, ,       100.30,        27.25
+N,SM,LLOYDS,LLOYDS LUXURIES LIMITED,        45.50,        45.50,        48.00,        45.00,        48.00,                  1261950.00,27000, ,        59.90,        40.20
+N,SM,MADHAVBAUG,VAIDYA SANE AYUR LAB LTD,       223.75,       226.20,       233.00,       220.00,       226.05,                  4902760.00,21600, ,       249.40,       128.95
+N,SM,MAHICKRA,MAHICKRA CHEMICAL LIMITED,        99.85,        97.25,        99.95,        97.20,        99.80,                   740700.00,7500, ,       102.00,        57.00
+N,SM,MAKS,MAKS ENERGY SOL INDIA LTD,        30.50,        29.00,        29.00,        29.00,        29.00,                   174000.00,6000, ,        55.30,        20.25
+N,SM,MHHL,MOHINI HEALTH&HYGIENE LTD,        54.65,        53.20,        53.65,        51.45,        51.45,                  2548800.00,48000, ,        59.70,        23.00
+N,SM,MOXSH,MOXSH OVERSEAS EDUCON LTD,        81.00,        81.00,        83.00,        80.70,        80.70,                   325000.00,4000, ,       132.85,        77.00
+N,SM,MPTODAY,M P TODAY MEDIA LIMITED,        42.10,        44.20,        44.20,        40.00,        42.10,                   256800.00,6000, ,        60.50,        29.45
+N,SM,MWL,MANGALAM WORLDWIDE LTD,       106.00,       106.10,       106.10,       106.00,       106.00,                  1017720.00,9600, ,       124.50,        89.00
+N,SM,NIDAN,NIDAN LABS AND HEALTH LTD,        47.75,        47.75,        47.75,        47.75,        47.75,                    47750.00,1000, ,        76.55,        31.60
+N,SM,NPST,NETWORK PEOPLE SRV TECH L,       298.10,       313.00,       313.00,       313.00,       313.00,                  1502400.00,4800, ,       398.40,        62.15
+N,SM,OSWALSEEDS,SHREEOSWAL S AND CHE LTD,       348.95,       357.90,       357.90,       340.25,       346.55,                  3478325.00,10000, ,       357.90,        57.00
+N,SM,PARTYCRUS,PARTY CRUISERS LIMITED,        95.75,       100.50,       100.50,       100.50,       100.50,                   201000.00,2000, ,       353.90,        86.00
+N,SM,PERFECT,PERFECT INFRAENGINEER LTD,        19.00,        19.95,        19.95,        18.25,        18.95,                  5081700.00,258000, ,        22.05,         8.25
+N,SM,PHANTOMFX,PHANTOM DIGITAL EFF LTD,       200.00,       198.10,       204.50,       196.70,       197.40,                  4793700.00,24000, ,       296.80,       189.00
+N,SM,PRECISION,PRECISION METALIKS LTD,        38.95,        38.75,        39.40,        37.00,        37.60,                  2976800.00,78000, ,        52.00,        23.65
+N,SM,PRITIKA,PRITIKA ENG COMPO LTD,        34.00,        34.00,        34.00,        33.70,        33.70,                   540400.00,16000, ,        47.00,        27.15
+N,SM,PROLIFE,PROLIFE INDUSTRIES LTD,       222.10,       211.00,       211.00,       211.00,       211.00,                  1899000.00,9000, ,       222.10,       140.00
+N,SM,PROPEQUITY,P. E. ANALYTICS LIMITED,       149.90,       148.10,       148.10,       145.00,       146.00,                   878640.00,6000, ,       204.10,       130.00
+N,SM,QMSMEDI,QMS MEDICAL ALLIED S LTD,       158.05,       151.30,       158.70,       151.30,       155.40,                  1400800.00,9000, ,       235.80,       151.30
+N,SM,QUADPRO,QUADPRO ITES LIMITED,         5.50,         5.60,         5.60,         5.60,         5.60,                    67200.00,12000, ,        14.50,         5.00
+N,SM,RBMINFRA,RBM INFRACON LIMITED,        92.65,        92.50,        92.50,        92.50,        92.50,                  1110000.00,12000, ,       111.75,        53.90
+N,SM,REXPIPES,REX PIPES AND CABLES LTD,        39.65,        41.50,        41.60,        41.50,        41.60,                   498800.00,12000, ,        46.40,        27.40
+N,SM,RICHA,RICHA INFO SYSTEMS LTD,       103.00,       100.00,       108.00,       100.00,       108.00,                   310000.00,3000, ,       126.75,        56.00
+N,SM,RITEZONE,RITE ZONE CHEMCON IND LTD,        80.05,        80.05,        80.05,        75.75,        75.75,                   249280.00,3200, ,       103.00,        70.00
+N,SM,RMDRIP,R M DRIP & SPRINK SYS LTD,        27.40,        28.75,        28.75,        26.25,        28.75,                  6111000.00,214000, ,        28.75,        12.75
+N,SM,SECL,SALASAR EXTERIOR CONT LTD,       248.90,       236.45,       236.45,       236.45,       236.45,                   886687.50,3750, ,       458.70,        75.05
+N,SM,SHIGAN,SHIGAN QUANTUM TECH LTD,        89.70,        86.05,        86.05,        86.00,        86.05,                  1032450.00,12000, ,       140.00,        74.00
+N,SM,SIDDHIKA,SIDDHIKA COATINGS LIMITED,       184.30,       175.10,       175.10,       175.10,       175.10,                   350200.00,2000, ,       214.95,        68.40
+N,SM,SIGMA,SIGMA SOLVE LIMITED,       200.45,       191.10,       199.50,       190.45,       199.50,                  2305612.50,12000, ,       721.50,       189.00
+N,SM,SKP,SKP BEARING INDUSTRI. LTD,       185.00,       182.10,       192.90,       181.10,       190.00,                  2413950.00,13000, ,       271.95,        77.20
+N,SM,SOLEX,SOLEX ENERGY LIMITED,       318.80,       318.00,       318.00,       305.00,       308.40,                  1113760.00,3600, ,       486.20,        95.00
+N,SM,SWARAJ,SWARAJ SUITING LIMITED,        45.00,        42.50,        42.50,        42.10,        42.10,                   169200.00,4000, ,        86.00,        40.25
+N,SM,TAPIFRUIT,TAPI FRUIT PROCESSING LTD,        98.40,        93.50,        93.50,        93.50,        93.50,                   280500.00,3000, ,       105.00,        44.00
+N,SM,TARACHAND,TARA CHAND INFRA SOLN LTD,        86.55,        90.80,        90.80,        87.25,        88.35,                  3402800.00,38000, ,        99.00,        36.85
+N,SM,THEJO,THEJO ENGINEERING LIMITED,      1310.00,      1310.00,      1324.00,      1300.00,      1315.00,                  3337380.00,2550, ,      1350.00,       802.00
+N,SM,UMA,UMA CONVERTER LIMITED,        34.60,        34.60,        34.95,        33.55,        34.25,                  2205800.00,64000, ,        50.40,        33.55
+N,SM,USASEEDS,UPSURGE SEEDS OF AGRI LTD,       546.10,       518.80,       518.80,       518.80,       518.80,                  2490240.00,4800, ,       911.80,       151.00
+N,SM,VEEKAYEM,VEEKAYEM FASH & APP LTD,        42.60,        43.90,        45.00,        43.90,        45.00,                   533600.00,12000, ,        54.00,        30.25
+N,SM,VITAL,VITAL CHEMTECH LIMITED,       101.50,       101.00,       103.50,        99.20,       100.80,                  4465140.00,44400, ,       172.00,        99.00
+N,SM,VIVIANA,VIVIANA POWER TECH LTD,        93.10,        95.00,        95.00,        92.50,        92.50,                  1878200.00,20000, ,       122.50,        75.25
+N,SM,VIVO,VIVO COLLAB SOLUTIONS LTD,       117.15,       111.30,       111.30,       111.30,       111.30,                   534240.00,4800, ,       224.50,       100.70
+N,SM,VMARCIND,V MARC INDIA LIMITED,        53.25,        52.50,        53.00,        50.25,        52.20,                  3896700.00,75000, ,        62.50,        29.00
+N,SM,VSCL,VADIVARHE SPCLTY CHEM LTD,        35.85,        34.20,        34.20,        34.15,        34.15,                   205050.00,6000, ,        48.00,        16.75
+N,ST,CMMIPL,CMM INFRAPROJECTS LIMITED,         4.75,         4.95,         4.95,         4.55,         4.55,                    55950.00,12000, ,        13.25,         4.55
+N,ST,INNOVATIVE,INNOVATIVE TYRES & TUBES,         2.55,         2.50,         2.55,         2.45,         2.45,                    37200.00,15000, ,         2.95,         2.10
+N,ST,LRRPL,LEAD REC AND RUB PROD LTD,        25.00,        27.50,        28.50,        27.15,        27.65,                 29097900.00,1050000, ,        28.50,        27.15
+N,ST,SHERA,SHERA ENERGY LIMITED,        68.25,        66.05,        68.00,        65.25,        65.30,                 16511800.00,248000, ,        70.65,        63.95
