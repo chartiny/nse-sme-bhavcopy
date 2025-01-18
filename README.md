@@ -12,6 +12,11 @@
 | 5 | 2025-01-07 | Tuesday | [CSV](2025/nse-sme-bhavcopy-2025-01-07.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-01-07.md)<br>47 kB |
 | 6 | 2025-01-08 | Wednesday | [CSV](2025/nse-sme-bhavcopy-2025-01-08.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-01-08.md)<br>47 kB |
 | 7 | 2025-01-09 | Thursday | [CSV](2025/nse-sme-bhavcopy-2025-01-09.csv)<br>64 kB | [MD](2025/nse-sme-bhavcopy-2025-01-09.md)<br>49 kB |
+| 8 | 2025-01-13 | Monday | [CSV](2025/nse-sme-bhavcopy-2025-01-13.csv)<br>63 kB | [MD](2025/nse-sme-bhavcopy-2025-01-13.md)<br>48 kB |
+| 9 | 2025-01-14 | Tuesday | [CSV](2025/nse-sme-bhavcopy-2025-01-14.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-01-14.md)<br>46 kB |
+| 10 | 2025-01-15 | Wednesday | [CSV](2025/nse-sme-bhavcopy-2025-01-15.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-01-15.md)<br>47 kB |
+| 11 | 2025-01-16 | Thursday | [CSV](2025/nse-sme-bhavcopy-2025-01-16.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-01-16.md)<br>46 kB |
+| 12 | 2025-01-17 | Friday | [CSV](2025/nse-sme-bhavcopy-2025-01-17.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-01-17.md)<br>46 kB |
 
 
 
