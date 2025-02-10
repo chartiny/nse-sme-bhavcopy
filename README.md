@@ -1,6 +1,19 @@
 
 # nse-sme-bhavcopy
 
+## February 2025
+
+| No | Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | 2025-02-01 | Saturday | [CSV](2025/nse-sme-bhavcopy-2025-02-01.csv)<br>58 kB | [MD](2025/nse-sme-bhavcopy-2025-02-01.md)<br>44 kB |
+| 2 | 2025-02-03 | Monday | [CSV](2025/nse-sme-bhavcopy-2025-02-03.csv)<br>58 kB | [MD](2025/nse-sme-bhavcopy-2025-02-03.md)<br>44 kB |
+| 3 | 2025-02-04 | Tuesday | [CSV](2025/nse-sme-bhavcopy-2025-02-04.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-02-04.md)<br>46 kB |
+| 4 | 2025-02-05 | Wednesday | [CSV](2025/nse-sme-bhavcopy-2025-02-05.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-02-05.md)<br>46 kB |
+| 5 | 2025-02-06 | Thursday | [CSV](2025/nse-sme-bhavcopy-2025-02-06.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-02-06.md)<br>47 kB |
+| 6 | 2025-02-07 | Friday | [CSV](2025/nse-sme-bhavcopy-2025-02-07.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-02-07.md)<br>46 kB |
+
+
+
 ## January 2025
 
 | No | Date | Day | CSV | Markdown |
@@ -22,6 +35,11 @@
 | 15 | 2025-01-22 | Wednesday | [CSV](2025/nse-sme-bhavcopy-2025-01-22.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-01-22.md)<br>47 kB |
 | 16 | 2025-01-23 | Thursday | [CSV](2025/nse-sme-bhavcopy-2025-01-23.csv)<br>60 kB | [MD](2025/nse-sme-bhavcopy-2025-01-23.md)<br>46 kB |
 | 17 | 2025-01-24 | Friday | [CSV](2025/nse-sme-bhavcopy-2025-01-24.csv)<br>60 kB | [MD](2025/nse-sme-bhavcopy-2025-01-24.md)<br>46 kB |
+| 18 | 2025-01-27 | Monday | [CSV](2025/nse-sme-bhavcopy-2025-01-27.csv)<br>63 kB | [MD](2025/nse-sme-bhavcopy-2025-01-27.md)<br>48 kB |
+| 19 | 2025-01-28 | Tuesday | [CSV](2025/nse-sme-bhavcopy-2025-01-28.csv)<br>63 kB | [MD](2025/nse-sme-bhavcopy-2025-01-28.md)<br>48 kB |
+| 20 | 2025-01-29 | Wednesday | [CSV](2025/nse-sme-bhavcopy-2025-01-29.csv)<br>62 kB | [MD](2025/nse-sme-bhavcopy-2025-01-29.md)<br>47 kB |
+| 21 | 2025-01-30 | Thursday | [CSV](2025/nse-sme-bhavcopy-2025-01-30.csv)<br>62 kB | [MD](2025/nse-sme-bhavcopy-2025-01-30.md)<br>47 kB |
+| 22 | 2025-01-31 | Friday | [CSV](2025/nse-sme-bhavcopy-2025-01-31.csv)<br>61 kB | [MD](2025/nse-sme-bhavcopy-2025-01-31.md)<br>46 kB |
 
 
 
